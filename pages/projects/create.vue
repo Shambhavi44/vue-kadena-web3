@@ -5,8 +5,8 @@ definePageMeta({
 </script>
 
 <template>
-  <div class="relative flex flex-col items-center justify-start">
+  <div class="relative flex flex-col items-center justify-start w-full">
     <NavBar />
-    <ProjectsForm class="mt-24" />
+    <ProjectsForm class="mt-24 w-full" />
   </div>
 </template>
